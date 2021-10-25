@@ -76,8 +76,7 @@ body {
   }
 
 .gradient {
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgb(7, 3, 95) 0%, rgba(9,9,121,1) 35%, rgba(0,255,38,0.8379726890756303) 100%);
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(147,67,67,1) 0%, rgba(111,27,27,1) 90% );
 }
 .page-header {
     margin-top: 4rem;
