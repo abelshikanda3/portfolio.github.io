@@ -1,0 +1,28 @@
+body {
+    height: 100%;
+    background-color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1rem;
+}
+.gradient {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(7, 3, 95) 0%, rgba(9,9,121,1) 35%, rgba(0,255,38,0.8379726890756303) 100%);
+}
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+}
+.table {
+    color: #fff;
+}
+.about_us {
+    color: white;
+}
+.donate {
+    color: #fff;
+}
+.footer {
+    background-color: white;
+    color: black;
+}
