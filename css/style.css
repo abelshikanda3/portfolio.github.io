@@ -81,7 +81,7 @@ body {
 
 .gradient0 {
   background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(50,9,121,0.8183648459383753) 0%);
+background: linear-gradient(90deg, rgb(3, 1, 51) 0%, rgba(58, 13, 134, 0.818) 0%);
 }
 
 .gradient2 {
